@@ -1,3 +1,5 @@
 Red
 Blue
 Green
+Violet
+Orange
