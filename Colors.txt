@@ -1,5 +1,7 @@
 Red
 Blue
 Green
+Violet
+Orange
 Yellow
 Black
